@@ -242,7 +242,7 @@
     </message>
     <message>
         <source>US Customary</source>
-        <translation>EUA Usual</translation>
+        <translation>Padrão Americano</translation>
     </message>
     <message>
         <source>Milligrams</source>
@@ -274,7 +274,7 @@
     </message>
     <message>
         <source>British Imperial</source>
-        <translation>Imperial Britânico</translation>
+        <translation>Padrão Imperial</translation>
     </message>
     <message>
         <source>MilliLiters</source>
@@ -434,11 +434,11 @@
     </message>
     <message>
         <source>Could not copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossível Copiar</translation>
     </message>
     <message>
         <source>There was an unexpected error creating %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Ocorreu um erro inesperado ao criar %1</translation>
     </message>
 </context>
 <context>
@@ -521,7 +521,7 @@
     </message>
     <message>
         <source>BrewNote</source>
-        <translation>Notas</translation>
+        <translation>Notas da Brassagem</translation>
     </message>
     <message>
         <source>Cancel All</source>
@@ -541,11 +541,11 @@
     </message>
     <message>
         <source>To XML</source>
-        <translation type="unfinished"></translation>
+        <translation>Para XML</translation>
     </message>
     <message>
         <source>To HTML</source>
-        <translation type="unfinished"></translation>
+        <translation>Para HTML</translation>
     </message>
 </context>
 <context>
@@ -595,19 +595,19 @@
     </message>
     <message>
         <source>Database password</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha do banco de dados</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation>Senha</translation>
     </message>
     <message>
         <source>Connection failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Falha na conexão</translation>
     </message>
     <message>
         <source>Could not connect to %1 : %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Impossível conectar a %1 : %2</translation>
     </message>
 </context>
 <context>
@@ -618,7 +618,7 @@
     </message>
     <message>
         <source>Tun Volume Warning</source>
-        <translation type="vanished">Atenção ao volume da Tina</translation>
+        <translation type="vanished">Atenção ao volume da Panela</translation>
     </message>
     <message>
         <source>Batch Size Warning</source>
@@ -634,7 +634,7 @@
     </message>
     <message>
         <source>The tun volume you entered is 0. This may cause problems</source>
-        <translation type="vanished">O volume da tina que você inseriu é 0. Isto pode causar problemas</translation>
+        <translation type="vanished">O volume da panela que você inseriu é 0. Isto pode causar problemas</translation>
     </message>
     <message>
         <source>The batch size you entered is 0. This may cause problems</source>
@@ -782,19 +782,19 @@
     </message>
     <message>
         <source>This equipment profile may break brewtarget&apos;s maths</source>
-        <translation type="unfinished"></translation>
+        <translation>Esse perfil de equipamento pode quebrar o modelo do brewtarget</translation>
     </message>
     <message>
         <source>The following values are not set:</source>
-        <translation type="unfinished"></translation>
+        <translation>Os seguintes valores não estão definidos:</translation>
     </message>
     <message>
         <source>mash tun volume (all-grain and BIAB only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume da panela de brassagem (apenas all-grain e BIAB)</translation>
     </message>
     <message>
         <source>batch size</source>
-        <translation type="unfinished"></translation>
+        <translation>Volume de Brassagem</translation>
     </message>
     <message>
         <source>hop utilization</source>
@@ -1183,7 +1183,7 @@
     </message>
     <message>
         <source>Would you like to set the batch size, boil size and time to that requested by the equipment?</source>
-        <translation>Gostaria de ajustar o tamanho da fornada, tamanho e tempo de fervura requeridos pelo equipamento?</translation>
+        <translation>Gostaria de ajustar o tamanho do lote, tamanho e tempo de fervura requeridos pelo equipamento?</translation>
     </message>
     <message>
         <source>HTML files (*.html)</source>
@@ -4869,23 +4869,23 @@ O volume final do fermentador primário é %1.</translation>
     </message>
     <message>
         <source>Forumulas</source>
-        <translation type="unfinished"></translation>
+        <translation>Fórmulas</translation>
     </message>
     <message>
         <source>Mash Hop (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Lúpulo de Brassagem (%)</translation>
     </message>
     <message>
         <source>First Wort (%)</source>
-        <translation type="unfinished"></translation>
+        <translation>Primeira Mostura (%)</translation>
     </message>
     <message>
         <source>Databases</source>
-        <translation type="unfinished"></translation>
+        <translation>Bases de dados</translation>
     </message>
     <message>
         <source>Engines</source>
-        <translation type="unfinished"></translation>
+        <translation>Engines</translation>
     </message>
     <message>
         <source>RDBMS Engine</source>
